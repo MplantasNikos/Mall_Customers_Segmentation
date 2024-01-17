@@ -1,0 +1,1 @@
+class 0 : medium spending score , medium-to-low-incomeclass 1: high income , high spending scoreclass 2: low income high spending scoreclass 3: high income , low spending scoreclass 4 : low income low spending score
